@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="502787c2-65e0-4404-be57-6975b80f25e8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kolokwium/Kolokwium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kolokwium/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramowanieWspolbierzneIRozproszone.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tablica/Tablica.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrzyKlasy/TrzyKlasy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrzyKlasy/src/Space2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrzyKlasy/src/Space3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TrzyKlasy/src/SpaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad1/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad1/Watek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad2/Watek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad3/LicznikWatkow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad3/TestWatkow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zad3/WatekLiczacy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/lab3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/Zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3/src/Zad1/Watek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/Zad3/Dane1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/Zad3/Dane2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/Zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/Zad3/Obliczenia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad1/Dane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad1/Obliczenia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad2/Dane1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad2/Dane2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad2/Obliczenia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/zad5/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/lab5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/Zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/Zad1/Osoba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/zad2/Filozof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/src/zad2/WidelecMenager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/lab6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad1/Cukiernik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad1/Pakowacz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad2/Cukiernik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad2/Pakowacz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad3/Cukiernik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad3/Pakowacz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6/src/zad3/Paleciak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7/lab7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ProgramowanieWspolbierzneIRozproszone/BMI/BMI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/ProgramowanieWspolbierzneIRozproszone/BMI/Main.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nAblV5RtIfzdeSlLfPbIOvRSfx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/huber_15ivafg/IdeaProjects/ProgramowanieWspolbierzneIRozproszone/lab2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="502787c2-65e0-4404-be57-6975b80f25e8" name="Changes" comment="" />
+      <created>1728418978999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728418978999</updated>
+      <workItem from="1728418980053" duration="462000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
